@@ -1,0 +1,13 @@
+D:\Projects\Super Simple Webserver\bin\Debug\netcoreapp3.1\Super Simple Webserver.exe
+D:\Projects\Super Simple Webserver\bin\Debug\netcoreapp3.1\Super Simple Webserver.deps.json
+D:\Projects\Super Simple Webserver\bin\Debug\netcoreapp3.1\Super Simple Webserver.runtimeconfig.json
+D:\Projects\Super Simple Webserver\bin\Debug\netcoreapp3.1\Super Simple Webserver.runtimeconfig.dev.json
+D:\Projects\Super Simple Webserver\bin\Debug\netcoreapp3.1\Super Simple Webserver.dll
+D:\Projects\Super Simple Webserver\bin\Debug\netcoreapp3.1\Super Simple Webserver.pdb
+D:\Projects\Super Simple Webserver\obj\Debug\netcoreapp3.1\Super Simple Webserver.csprojAssemblyReference.cache
+D:\Projects\Super Simple Webserver\obj\Debug\netcoreapp3.1\Super Simple Webserver.AssemblyInfoInputs.cache
+D:\Projects\Super Simple Webserver\obj\Debug\netcoreapp3.1\Super Simple Webserver.AssemblyInfo.cs
+D:\Projects\Super Simple Webserver\obj\Debug\netcoreapp3.1\Super Simple Webserver.csproj.CoreCompileInputs.cache
+D:\Projects\Super Simple Webserver\obj\Debug\netcoreapp3.1\Super Simple Webserver.dll
+D:\Projects\Super Simple Webserver\obj\Debug\netcoreapp3.1\Super Simple Webserver.pdb
+D:\Projects\Super Simple Webserver\obj\Debug\netcoreapp3.1\Super Simple Webserver.genruntimeconfig.cache
