@@ -27,7 +27,7 @@ namespace Super_Simple_Webserver
                 return null;
             }
 
-            String[] tokens = request.Split(" ");
+            String[] tokens = request.Split(' ', '\n');
             String type = tokens[0];
             String url = tokens[1];
             String host = tokens[4];
@@ -42,6 +42,7 @@ namespace Super_Simple_Webserver
                 }
             }
 
+            Console.WriteLine(String.Format("{0} {1} @ {2} \nReferer: {3}", type, url, host, referer));
             return new Request(type, url, host, referer);
         }
     }

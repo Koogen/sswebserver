@@ -14,7 +14,7 @@ namespace Super_Simple_Webserver
         public const String MSG_DIR = "/root/msg/";
         public const String WEB_DIR = "/root/web/";
         public const String VERSION = "HTTP/1.1";
-        public const String NAME = "Super Simple Webserver ver. 1.0";
+        public const String NAME = "Super Simple Webserver ver. 0.1";
 
         private int port;
         private bool running = false;
